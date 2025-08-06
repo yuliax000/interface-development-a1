@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap");
+
+body {
+  font-family: "Playfair Display", serif;
+}
+
+main {
+  padding: 0 10%;
+}
+
+header {
+  padding: 20%;
+}
+
+p {
+  background-color: cadetblue;
+}
+
+.scrollPara {
+  background-color: rgb(166, 101, 226);
+}
+
+#dialogCloseButton {
+  padding: 1rem;
+}
