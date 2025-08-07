@@ -23,3 +23,9 @@ p {
 #dialogCloseButton {
   padding: 1rem;
 }
+
+section {
+  border: 2px solid, cadetblue;
+  border-radius: 1%;
+  padding: 5%;
+}
