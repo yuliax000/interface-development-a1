@@ -9,7 +9,7 @@ main {
 }
 
 header {
-  padding: 0 30%;
+  padding: 0 39%;
 }
 
 p {
@@ -17,7 +17,7 @@ p {
 }
 
 .scrollPara {
-  background-color: rgb(166, 101, 226);
+  background-color: cadetblue;
 }
 
 #dialogCloseButton {
