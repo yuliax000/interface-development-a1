@@ -2,6 +2,8 @@
 
 body {
   font-family: "Playfair Display", serif;
+  color: rgb(97.427% 99.991% 95.154%);
+  background-color: rgb(23.152% 32.368% 37.147%);
 }
 
 main {
@@ -12,20 +14,16 @@ header {
   padding: 0 39%;
 }
 
-p {
-  background-color: cadetblue;
-}
-
-.scrollPara {
-  background-color: cadetblue;
-}
-
 #dialogCloseButton {
   padding: 1rem;
 }
 
 section {
-  border: 2px solid, cadetblue;
+  border: 2px solid, rgb(97.427% 99.991% 95.154%);
   border-radius: 1%;
   padding: 5%;
+}
+
+h4 {
+  background-color: rgb(40, 61, 71);
 }
